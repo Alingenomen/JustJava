@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Justjava</string>
+    <string name="quantityLabel">quantity</string>
+    <string name="quantityText">0</string>
+    <string name="priceText">0</string>
+    <string name="orderButtonText">order</string>
+    <string name="incButtonText">+</string>
+    <string name="decButtonText">-</string>
+    <string name="priceLabel">price</string>
+
+</resources>
+
