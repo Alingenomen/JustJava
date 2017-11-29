@@ -2,7 +2,7 @@
 <resources>
     <dimen name="defaultMargin">16dp</dimen>
     <dimen name="leftMargin">16dp</dimen>
-    <dimen name="bottomMargin">8dp</dimen>
+    <dimen name="bottomMargin">16dp</dimen>
     <dimen name="topMargin">8dp</dimen>
     <dimen name="topHeaderMargin">16dp</dimen>
     <dimen name="cremSize">48dp</dimen>
